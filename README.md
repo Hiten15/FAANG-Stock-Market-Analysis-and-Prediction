@@ -1,0 +1,3 @@
+# FAANG-Stock-Market-Analysis-and-Prediction
+In this machine learning project, the focus is on analyzing the stock data of FAANG companies (Facebook, Amazon, Apple, Netflix, and Google) using time series analysis techniques. The stock data is extracted through web scraping using the APIs provided by the "yfinance" and "yahoo-fin" libraries. Three models, namely ARIMA, Facebook Prophet, and Bi-directional LSTM, are employed for making predictions.
+By leveraging these models, the project aims to gain insights into stock market behavior and provide predictions for the FAANG companies' stock prices.
